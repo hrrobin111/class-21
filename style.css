@@ -1,0 +1,80 @@
+/*  Start Css */
+
+.my_nav {
+    margin-left: 60px;
+}
+.carsu-p {
+    font-size: 14px;
+}
+.my_carosusel {
+    padding-bottom: 320px;
+}
+.blck {
+    font-size: 17px;
+}
+.bga {
+    background-color: #f8f9fa;
+}
+.brdr {
+    border: 1px solid #d5d6d6;
+    padding: 6px 13px !important;
+}
+.table-section {
+    border-top: 1px solid #d5d6d6;
+    margin-bottom: 65px !important;
+}
+.table-padd {
+    margin-top: 100px;
+}
+.from-padd {
+    padding-left: 60px;
+}
+.submit_btn {
+    padding: 6px 35px !important;
+}
+.card_bar {
+    border-top: 1px solid #d5d6d6;
+}
+.p-font {
+    font-size: 13px;
+}
+.a_padd {
+    margin-right: 47px !important;
+}
+.btn_edit {
+    margin-top: 14px;
+}
+.progr-text p {
+    font-size: 13px;
+}
+.progr-text {
+    padding-top: 26px;
+}
+.cardu_txt {
+    font-size: 13px;
+}
+.card_img img {
+    height: 360px;
+}
+.stretched_link {
+    border-top: 1px solid #d5d6d6;
+}
+.stretched_text {
+    padding-top: 55px;
+    padding-bottom: 30px;
+}
+.stra_width {
+    width: 355px !important;
+}
+.paga_padd {
+    margin-left: 430px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+.fotter {
+    color: white;
+    background: #212529;
+}
+.fotter p {
+    padding: 20px 0px;
+}
